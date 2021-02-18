@@ -85,9 +85,9 @@
     </dependencies>
 
     <scm>
-    <connection>scm:git:https://github.com/JayanthSureshjfrog/maven-sample</connection>
-    <developerConnection>scm:git:https://github.com/JayanthSureshjfrog/maven-sample</developerConnection>
-    <url>https://github.com/JayanthSureshjfrog/maven-sample</url>
+    <connection>scm:git:https://github.com/JayanthSureshjfrog/maven-simple</connection>
+    <developerConnection>scm:git:https://github.com/JayanthSureshjfrog/maven-simple</developerConnection>
+    <url>https://github.com/JayanthSureshjfrog/maven-simple</url>
   </scm>
   <developers>
     <developer>
