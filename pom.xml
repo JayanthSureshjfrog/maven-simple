@@ -84,6 +84,24 @@
         </dependency> 
     </dependencies>
 
+    <scm>
+    <connection>scm:git:https://github.com/JayanthSureshjfrog/jayanthtest</connection>
+    <developerConnection>scm:git:https://github.com/JayanthSureshjfrog/jayanthtest</developerConnection>
+    <url>https://github.com/JayanthSureshjfrog/jayanthtest</url>
+  </scm>
+  <developers>
+    <developer>
+      <id>jayanthsureshjfrog</id>
+      <name>jayanth suresh</name>
+      <email>jayanths@jfrog.com</email>
+      <organization>JFrog</organization>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+    
+    
 <distributionManagement>
     <repository>
         <id>central</id>
