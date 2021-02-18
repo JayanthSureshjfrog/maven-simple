@@ -85,11 +85,11 @@
     </dependencies>
 
 <distributionManagement>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>jay-testing-snapshots</name>
-        <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
-    </snapshotRepository>
+    <repository>
+        <id>central</id>
+        <name>jayanths-artifactory-primary-0-releases</name>
+        <url>https://jayanths.jfrog.io/artifactory/libs-release</url>
+    </repository>
 </distributionManagement>
 
 </project>
